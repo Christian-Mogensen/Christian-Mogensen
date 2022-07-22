@@ -31,17 +31,17 @@ Im a :crayon: graphic designer, turned :robot: developer. I have a love/hate rel
 <br>
 
 ### ⚙️ Currently Learning
-
+<div>
 <img src="https://img.shields.io/badge/Typescript-fb8c00?style=for-the-badge&logo=Typescript&logoColor=white">
 <img src="https://img.shields.io/badge/React_native-fb8c00?style=for-the-badge&logo=React&logoColor=white">
-
+</div>
 <br>
 
 ### 🔭 Pipeline
-
+<div>
 <img src="https://img.shields.io/badge/Python-fb8c00?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Ruby-fb8c00?style=for-the-badge&logo=Ruby&logoColor=white">
-
+</div>
 <br>
 
 ---
