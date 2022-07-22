@@ -1,6 +1,7 @@
 ### Hi there im Christian! 👋
 
 Im a graphic designer, turned developer.
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Christian-Mogensen&theme=highcontrast)](https://git.io/streak-stats)
 
 <!--
