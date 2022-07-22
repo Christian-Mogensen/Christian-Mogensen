@@ -4,9 +4,7 @@ Im a graphic designer, turned developer. I have a love/hate relationship to fron
 
 ---
 
-## Language and stats:
-
-### Language[experience]
+### ⚔️ Experience:
 
 <div style="border:1px solid gray; padding:10px; border-radius:5px;">
 <img src="https://img.shields.io/badge/HTML5-fb8c00?style=for-the-badge&logo=html5&logoColor=white">
@@ -33,7 +31,7 @@ Im a graphic designer, turned developer. I have a love/hate relationship to fron
 </div>
 <br>
 
-### Language[currently learning]
+### ⚙️ Currently Learning
 
 <div style="border:1px solid gray; padding:10px; border-radius:5px;">
 <img src="https://img.shields.io/badge/Typescript-fb8c00?style=for-the-badge&logo=Typescript&logoColor=white">
@@ -41,7 +39,7 @@ Im a graphic designer, turned developer. I have a love/hate relationship to fron
 </div>
 <br>
 
-### Language[pipeline]
+### 🔭 Pipeline
 
 <div style="border:1px solid gray; padding:10px; border-radius:5px;">
 <img src="https://img.shields.io/badge/Python-fb8c00?style=for-the-badge&logo=Python&logoColor=white">
@@ -51,7 +49,7 @@ Im a graphic designer, turned developer. I have a love/hate relationship to fron
 
 ---
 
-## Stats
+## 📈 Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Christian-Mogensen&theme=vision-friendly-dark&hide_border=true&background=00000000)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian-Mogensen&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Mogensen&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
