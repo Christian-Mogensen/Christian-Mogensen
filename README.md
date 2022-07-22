@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there im Christian! 👋
+
+Im a graphic designer, turned developer. I love being able to solve issues and create features with creativity.
+
+I enjoy brainteasers, I play chess, I strive to learn something new each day. Thankfully being a developer combines
+
+![](./asdweqwqa.png)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Christian-Mogensen)](https://git.io/streak-stats)
 
 <!--
 **Christian-Mogensen/Christian-Mogensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
