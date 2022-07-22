@@ -1,10 +1,6 @@
 ### Hi there im Christian! 👋
 
-Im a graphic designer, turned developer. I love being able to solve issues and create features with creativity.
-
-I enjoy brainteasers, I play chess, I strive to learn something new each day. Thankfully being a developer combines
-
-![](./asdweqwqa.png)
+Im a graphic designer, turned developer.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Christian-Mogensen)](https://git.io/streak-stats)
 
