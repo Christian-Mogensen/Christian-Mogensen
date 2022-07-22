@@ -1,8 +1,7 @@
 ### Hi there im Christian! 👋
 
 Im a graphic designer, turned developer.
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Christian-Mogensen)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Christian-Mogensen&theme=highcontrast)](https://git.io/streak-stats)
 
 <!--
 **Christian-Mogensen/Christian-Mogensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
