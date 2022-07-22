@@ -5,7 +5,7 @@ Im a :crayon: graphic designer, turned :robot: developer. I have a love/hate rel
 ---
 
 ### ⚔️ Experience:
-
+<div>
 <img src="https://img.shields.io/badge/HTML5-fb8c00?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-fb8c00?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-fb8c00?style=for-the-badge&logo=javascript&logoColor=white">
@@ -27,6 +27,7 @@ Im a :crayon: graphic designer, turned :robot: developer. I have a love/hate rel
 <img src="https://img.shields.io/badge/Next-fb8c00?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-fb8c00?style=for-the-badge&logo=Firebase&logoColor=white">
 <img src="https://img.shields.io/badge/Jest-fb8c00?style=for-the-badge&logo=Jest&logoColor=white">
+  </div>
 <br>
 
 ### ⚙️ Currently Learning
