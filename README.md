@@ -6,7 +6,6 @@ Im a :crayon: graphic designer, turned :robot: developer. I have a love/hate rel
 
 ### ⚔️ Experience:
 
-<div style="border:1px solid gray; padding:10px; border-radius:5px;">
 <img src="https://img.shields.io/badge/HTML5-fb8c00?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-fb8c00?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-fb8c00?style=for-the-badge&logo=javascript&logoColor=white">
@@ -28,23 +27,20 @@ Im a :crayon: graphic designer, turned :robot: developer. I have a love/hate rel
 <img src="https://img.shields.io/badge/Next-fb8c00?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-fb8c00?style=for-the-badge&logo=Firebase&logoColor=white">
 <img src="https://img.shields.io/badge/Jest-fb8c00?style=for-the-badge&logo=Jest&logoColor=white">
-</div>
 <br>
 
 ### ⚙️ Currently Learning
 
-<div style="border:1px solid gray; padding:10px; border-radius:5px;">
 <img src="https://img.shields.io/badge/Typescript-fb8c00?style=for-the-badge&logo=Typescript&logoColor=white">
 <img src="https://img.shields.io/badge/React_native-fb8c00?style=for-the-badge&logo=React&logoColor=white">
-</div>
+
 <br>
 
 ### 🔭 Pipeline
 
-<div style="border:1px solid gray; padding:10px; border-radius:5px;">
 <img src="https://img.shields.io/badge/Python-fb8c00?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Ruby-fb8c00?style=for-the-badge&logo=Ruby&logoColor=white">
-</div>
+
 <br>
 
 ---
