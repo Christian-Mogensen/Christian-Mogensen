@@ -48,7 +48,7 @@ Im a :crayon: graphic designer, turned :robot: developer. I have a love/hate rel
 
 ## 📈 Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Christian-Mogensen&theme=vision-friendly-dark&hide_border=true&background=00000000)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian-Mogensen&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Mogensen&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Christian-Mogensen&theme=vision-friendly-dark&hide_border=true&background=00000000)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian-Mogensen&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Mogensen&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Christian-Mogensen/Christian-Mogensen** is a ✨ _special_ ✨ repository because its `README.md` (this file"> appears on your GitHub profile.
