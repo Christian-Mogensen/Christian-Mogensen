@@ -12,7 +12,6 @@ Im a :crayon: graphic designer, turned :robot: developer. I have a love/hate rel
 <img src="https://img.shields.io/badge/Node.js-fb8c00?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-fb8c00?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-fb8c00?style=for-the-badge&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-fb8c00?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-fb8c00?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/React-fb8c00?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-fb8c00?style=for-the-badge&logo=tailwind-css&logoColor=white">
