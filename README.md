@@ -1,6 +1,6 @@
 ### Hi there im Christian! 👋
 
-Im a :crayon: graphic designer, turned :robot: developer. I have a love/hate relationship to frontend and work towards becoming a full-stack developer.
+Im a :crayon: graphic designer, turned :robot: developer.
 
 ---
 
